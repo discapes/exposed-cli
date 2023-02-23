@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "ws": "^8.12.1"
+  },
+  "type": "module",
+  "name": "exposed-cli",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js",
+    "scrape": "node scrape.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
